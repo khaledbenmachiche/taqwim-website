@@ -72,4 +72,3 @@ This project is licensed under the **MIT License**.
 ## Contact
 
 For any inquiries or support, please reach out via GitHub Issues or visit [Taqwim DZ](https://taqwim-dz.vercel.app).
-# taqwim-website
